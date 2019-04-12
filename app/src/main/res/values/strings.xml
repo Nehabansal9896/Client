@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"Client "</string>
+    <string name="getBtn">GET</string>
+    <string name="result">Result...</string>
+    <string name="ip_address">IP Address</string>
+    <string name="ipaddress">IP Address</string>
+</resources>
